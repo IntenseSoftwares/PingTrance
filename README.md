@@ -40,7 +40,7 @@ For assistance or to report issues, please contact:
 
 ## **Donations**
 
-BTC: `17Ng79E4xki7qeY87BneY458b7U13B4zdP`
-TON / USDT TON: `UQDaoS5NoLKZ_o2Rka903kHqguA3OEi0a3oyCv4p9AIX1TIV`
-USDT TRC20: `THJK4AAJj1UJDzHSv3Jx9BcEgC6kXWQALA`
-UPI (Only in INDIA): `parijatsoftwares@okaxis`
+- BTC: `17Ng79E4xki7qeY87BneY458b7U13B4zdP` 
+- TON / USDT TON: `UQDaoS5NoLKZ_o2Rka903kHqguA3OEi0a3oyCv4p9AIX1TIV` 
+- USDT TRC20: `THJK4AAJj1UJDzHSv3Jx9BcEgC6kXWQALA` 
+- UPI (Only in INDIA): `parijatsoftwares@okaxis` 
