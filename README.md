@@ -40,7 +40,56 @@ For assistance or to report issues, please contact:
 
 ## **Donations**
 
-- BTC: `17Ng79E4xki7qeY87BneY458b7U13B4zdP` 
-- TON / USDT TON: `UQDaoS5NoLKZ_o2Rka903kHqguA3OEi0a3oyCv4p9AIX1TIV` 
-- USDT TRC20: `THJK4AAJj1UJDzHSv3Jx9BcEgC6kXWQALA` 
-- UPI (Only in INDIA): `parijatsoftwares@okaxis` 
+<details>
+  <summary><b>☕ Buy Me A Coffee</b></summary>
+
+  <br>
+
+  <a href="https://buymeacoffee.com/intense">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-111827?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00">
+  </a>
+
+</details>
+
+<br>
+
+<details>
+  <summary><b>🇮🇳 UPI Support</b></summary>
+
+  <br>
+
+  <p>
+    <img src="https://img.shields.io/badge/UPI-India-111827?style=for-the-badge&logo=googlepay&logoColor=FFFFFF">
+  </p>
+
+  <table>
+    <tr>
+      <td><b>UPI IDs ➡️</b></td>
+      <td><code>parijatsoftwares@oksbi</code></td>
+      <td><code>parijatsoftwares@okhdfcbank</code></td>
+      <td><code>parijatsoftwares@okicici</code></td>
+    </tr>
+  </table>
+
+</details>
+
+<br>
+
+<details>
+  <summary><b>💳 Crypto</b></summary>
+
+  <br>
+
+  <b><img src="https://custom-icon-badges.demolab.com/badge/DeFi-111827?style=for-the-badge&logo=defi" alt="TON / DeFi"></b><br>
+  <code>UQC9Xmt5NAdHrBDXCeKKPIVOh5uUQtNHB7fph_NCFnatPGgA</code>
+
+  <b><img src="https://custom-icon-badges.demolab.com/badge/USDT & Gram / Toncoin (TON)-111827?style=for-the-badge&logo=ton" alt="USDT & Gram / Toncoin (TON)"></b><br>
+  <code>UQA51nXJljn3njDZc9ewNpLvi29CNeUtfJVzPy4F2uYoYwR-</code>
+
+  <b><img src="https://custom-icon-badges.demolab.com/badge/BTC (Bitcoin Network)-111827?style=for-the-badge&logo=bitcoin" alt="BTC (Bitcoin Network)"></b><br>
+  <code>bc1q0zcpwus4s3wz8lh5f6pnzm3sm38mmafkpdg57c</code>
+
+  <b><img src="https://custom-icon-badges.demolab.com/badge/ETH (Ethereum Network)-111827?style=for-the-badge&logo=ethereum" alt="ETH (Ethereum Network)"></b><br>
+  <code>0x404bd5CFCc3eEcB0A9d501329cAA073F3f0d8A6E</code>
+
+</details>
